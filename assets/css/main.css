@@ -3584,6 +3584,12 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	#banner .moveimage
+	{
+		position: relative;
+		top: 12px;
+	}
+
 		#banner h2 {
 			-moz-transform: scale(1);
 			-webkit-transform: scale(1);
@@ -3703,6 +3709,8 @@ input, select, textarea {
 			top: 0;
 			opacity: 0;
 		}
+
+
 
 		@media screen and (max-width: 736px) {
 
